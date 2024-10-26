@@ -1,7 +1,7 @@
 # Preseason Digital Notebook Example
 Name: **[Ethan Dhakal]**
 
-Section: **[I2RC/ARC]**
+Section: **[I2RC]**
 
 Week: **Week [5]**
 
@@ -10,9 +10,9 @@ Week: **Week [5]**
 
 The main topic this week was: **[Encoders]**
 
-Commands: **[COMMANDS]**
+Commands: **[EncoderDrive]**
 
-Subsystems: **[SUBSYSTEMS]**
+Subsystems: **[Drivetrain, Constants, and RobotContainer]**
 
 ### How does the code work?
 The code is resposnible for measuring multiple different factors. Some include distances, velocities, angles, and other factors. Encoders help with providing exact positions and looks at past changes. 
