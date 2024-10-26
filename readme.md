@@ -1,21 +1,21 @@
 # Preseason Digital Notebook Example
-Name: **[INSERT NAME HERE]**
+Name: **[Ethan Dhakal]**
 
 Section: **[I2RC/ARC]**
 
-Week: **[INSERT WEEK NUM HERE]**
+Week: **Week [5]**
 
 
 ## Codeit s
 
-The main topic this week was: **[TOPIC NAME]**
+The main topic this week was: **[Encoders]**
 
 Commands: **[COMMANDS]**
 
 Subsystems: **[SUBSYSTEMS]**
 
 ### How does the code work?
-Write about how it works here
+The code is resposnible for measuring multiple different factors. Some include distances, velocities, angles, and other factors. Encoders help with providing exact positions and looks at past changes. 
 
 
 ### Important notes for future reference
